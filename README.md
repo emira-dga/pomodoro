@@ -2,25 +2,24 @@
 
 A simple yet effective command-line Pomodoro timer built in Bash, designed to boost your productivity using the proven Pomodoro technique. It includes system notifications and customizable work/break durations.
 
-
 ---
 
-## 🧠 What is the Pomodoro Technique?
+## Pomodoro Technique?
 
 The Pomodoro Technique is a time management method developed by Francesco Cirillo. It uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
 ---
 
-## 📦 Features
+## Features
 
-- 📌 Customizable work duration and break cycles
-- 🔔 System notifications using `notify-send` (Linux desktop)
-- 💻 Simple and lightweight — written entirely in Bash
-- ⏳ Displays live countdown in terminal
+- Customizable work duration and break cycles
+- System notifications using `notify-send` (Linux desktop)
+- Simple and lightweight — written entirely in Bash
+- Displays live countdown in terminal
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. The user is prompted to enter the number of hours to work.
 2. Each hour includes **two 25-minute Pomodoro sessions**.
